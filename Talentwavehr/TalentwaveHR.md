@@ -1,4 +1,4 @@
-# TalentwaveHR 🚀
+# TalentwaveHR PT/BR 🚀
 Esse é o projeto do Talentwave. Um protótipo de aplicativo mobile para gestão de RH. Ele engloba diversas funcionalidades para gestor financeiro, administrador e funcionário.
 
 ## Funcionalidades
@@ -15,3 +15,17 @@ empresa.
 
 ## Link do FIGMA
 O link para o FIGMA está disponível: <a href="https://www.figma.com/file/lEU7YgcDgHtp46kjVWmAU4/Talentwave-HR?type=design&node-id=0%3A1&mode=design&t=XStYNtsPQPO1ZMlh-1">Talentwave HR 🚀</a>
+
+# TalentwaveHR EN/US 🚀
+This is the Talentwave project, a prototype of a mobile app for HR management. It encompasses various functionalities for the financial manager, administrator, and employee.
+
+## Functionalities
+- Financial Manager
+  - The financial manager is responsible for checking reports on how the company is handling profits and the performance of its employees. For this, we have designed an exclusive reports screen. It includes payroll, performance evaluation, training and development, and an overview.
+- Administrator
+  - The administrator is responsible for overseeing the employee and training aspects, essentially the human resources personnel. They can register, update, and delete employees, in addition to checking the training history of each one.
+- Employee
+  - For the employee, there is the option to check the time clock, benefits, training, and career path. Thus, they can clock in, validate their benefits, check training catalogs (along with the schedule), and finally, follow the career path, where they can transition between areas within the company.
+
+## Link do FIGMA
+The link to the Figma design is available: <a href="https://www.figma.com/file/lEU7YgcDgHtp46kjVWmAU4/Talentwave-HR?type=design&node-id=0%3A1&mode=design&t=XStYNtsPQPO1ZMlh-1">Talentwave HR 🚀</a>
